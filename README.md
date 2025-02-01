@@ -1,5 +1,4 @@
 # **H!!👋 I'm Arun Sisodiya**
-💫 About Me:  
 🔭 I’m currently working on Android App Development<br>🌱 I’m currently learning Java + DSA
 
 
