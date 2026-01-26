@@ -1,5 +1,5 @@
 # **H!!👋 I'm Arun Sisodiya**
-🔭 I’m currently working on Android App Development<br>🌱 I’m currently learning Java + DSA<br>⚡ Fun fact My code compiles...Eventually
+🔭 I’m currently working on Android App Development<br>🌱 I’m currently learning Flutter<br>⚡ Fun fact My code compiles...Eventually
 
 
 ## 🌐 Socials:
